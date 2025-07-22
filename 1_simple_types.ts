@@ -37,7 +37,6 @@ Implicit type assignment are shorter, faster to type, and often used when develo
 */ 
 
 
-
 /*
 Error In Type Assignment
 TypeScript will throw an error if data types do not match.
