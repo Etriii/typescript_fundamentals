@@ -158,7 +158,12 @@ ex.
 
 // ------------------------------------------------------------------------------------------------
 
-/*Overrid na*/
+/*
+Override
+
+When a class extends another class, it can replace the members of the parent class with the same name.
+Newer versions of TypeScript allow explicitly marking this with the override keyword.
+*/
 
 // ------------------------------------------------------------------------------------------------
 // ------------------------------------------------------------------------------------------------
