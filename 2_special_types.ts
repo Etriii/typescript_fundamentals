@@ -30,7 +30,7 @@ unknown is a similar, but safer alternative to any.
 TypeScript will prevent unknown types from being used, as shown in the below example:
 */
 let w: unknown = 1;
-w = "string"; // no error
+w = "string"; // no error 
 w = {
   runANonExistentMethod: () => {
     console.log("I think therefore I am");
